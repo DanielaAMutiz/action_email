@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">action_email</string>
+    <string name="asunto">asunto</string>
+    <string name="mensaje">mensaje</string>
+
+
+</resources>
